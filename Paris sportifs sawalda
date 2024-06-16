@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paris sportifs sawalda - Stratégies Gagnantes</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 2em 0;
+        }
+        .section {
+            margin-bottom: 2em;
+        }
+        h2 {
+            color: #4CAF50;
+        }
+        .bio {
+            background-color: #e2e2e2;
+            padding: 1em;
+            border-radius: 5px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            background-color: #fff;
+            margin: 0.5em 0;
+            padding: 0.5em;
+            border-radius: 5px;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+        }
+        ul li a {
+            text-decoration: none;
+            color: #4CAF50;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Bienvenue sur ma page personnelle - Paris sportifs sawalda</h1>
+    </header>
+    <div class="container">
+        <div class="section">
+            <h2>Présentation</h2>
+            <p class="bio">
+                Salut ! Je m'appelle Paris sportifs sawalda et je suis expert en paris sportifs. Avec des années d'expérience dans ce domaine, j'ai développé des stratégies efficaces pour maximiser les gains et minimiser les risques. 
+            </p>
+        </div>
+        <div class="section">
+            <h2>Stratégies Gagnantes</h2>
+            <ul>
+                <li><strong>Analyse des Statistiques :</strong> Toujours analyser les statistiques avant de placer un pari. Connaître les performances des équipes, les joueurs clés, et les tendances.</li>
+                <li><strong>Gestion de Bankroll :</strong> Définir un budget et s'y tenir. Ne jamais parier plus que ce que vous pouvez vous permettre de perdre.</li>
+                <li><strong>Suivre les Conseils d'Experts :</strong> S'informer et suivre les conseils des experts en paris sportifs pour avoir une vue d'ensemble.</li>
+                <li><strong>Éviter les Paris Émotionnels :</strong> Ne jamais parier sur une équipe simplement parce que c'est votre favorite. Rester objectif et basé sur les faits.</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h2>Ressources Utiles</h2>
+            <ul>
+                <li><a href="#">Guide complet des paris sportifs</a></li>
+                <li><a href="#">Calculateur de cotes</a></li>
+                <li><a href="#">Forum des parieurs</a></li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
